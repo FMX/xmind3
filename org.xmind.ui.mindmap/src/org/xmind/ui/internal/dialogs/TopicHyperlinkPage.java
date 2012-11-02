@@ -33,6 +33,8 @@ import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Control;
 import org.eclipse.swt.widgets.Label;
 import org.eclipse.ui.IEditorPart;
+import org.eclipse.ui.dialogs.FilteredTree;
+import org.eclipse.ui.dialogs.PatternFilter;
 import org.xmind.core.ISheet;
 import org.xmind.core.ITopic;
 import org.xmind.core.IWorkbook;
@@ -179,7 +181,13 @@ public class TopicHyperlinkPage extends HyperlinkPage {
      * @param parent
      */
     private void createTopicViewer(Composite parent) {
-        topicViewer = new TreeViewer(parent, SWT.SINGLE | SWT.BORDER);
+    	// Nick: add text filter for topic
+    	PatternFilter filter = new PatternFilter();
+    	FilteredTree tree = new FilteredTree(parent, SWT.SINGLE | SWT.BORDER | SWT.H_SCROLL
+				| SWT.V_SCROLL, filter, true);
+
+    	topicViewer = tree.getViewer();
+//        topicViewer = new TreeViewer(parent, SWT.SINGLE | SWT.BORDER);
         topicViewer.getControl().setLayoutData(
                 new GridData(SWT.FILL, SWT.FILL, true, true));
         topicViewer.setAutoExpandLevel(2);
