@@ -11,12 +11,16 @@
  * Contributors:
  *     XMind Ltd. - initial API and implementation
  *******************************************************************************/
-package org.xmind.ui.texteditor;
 
-import org.eclipse.swt.widgets.Composite;
+package net.xmind.signin.internal;
 
-public interface ICompositeProvider {
-    
-    Composite getParent();
+/**
+ * @author Frank Shaka
+ * 
+ */
+public interface IRequestStatusChangeListener {
+
+    public void requestStatusChanged(XMindNetRequest request, int oldStatus,
+            int newStatus);
 
 }
