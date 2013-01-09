@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: BouncyCastle Plug-in
 Bundle-SymbolicName: org.bouncycastle
-Bundle-Version: 1.41.0
-Bundle-ClassPath: bcprov-jdk15-141.jar
+Bundle-Version: 1.4.7
+Bundle-ClassPath: bcprov-jdk15on-147.jar
 Bundle-Vendor: The Legion Of The Bouncy Castle
 Export-Package: org.bouncycastle,
  org.bouncycastle.asn1,
