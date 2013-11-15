@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-Vendor: %providerName
 Fragment-Host: org.xmind.ui
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-Name: %pluginName
 Bundle-Localization: fragment_resources
 Bundle-ManifestVersion: 2

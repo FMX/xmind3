@@ -10,7 +10,7 @@ Export-Package: org.xmind.cathy.internal;x-internal:=true,org.xmind.ca
  thy.internal.actions;x-internal:=true
 Bundle-Vendor: %providerName
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-Name: %pluginName
 Bundle-Localization: plugin
 Bundle-ManifestVersion: 2

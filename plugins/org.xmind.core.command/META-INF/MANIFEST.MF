@@ -5,7 +5,7 @@ Export-Package: org.xmind.core.command,org.xmind.core.command.argument
  ernal:=true
 Bundle-Vendor: XMind Ltd.
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-Name: XMind Command
 Bundle-Localization: plugin
 Bundle-ManifestVersion: 2

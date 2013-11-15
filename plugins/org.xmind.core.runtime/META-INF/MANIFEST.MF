@@ -10,7 +10,7 @@ Bundle-RequiredExecutionEnvironment: J2SE-1.5
 Require-Bundle: org.eclipse.core.runtime,org.xmind.core;visibility:=re
  export,org.bouncycastle,org.eclipse.core.expressions
 Bundle-Vendor: %providerName
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-ManifestVersion: 2
 Bundle-Activator: org.xmind.core.internal.XmindCore
 Bundle-SymbolicName: org.xmind.core.runtime;singleton:=true

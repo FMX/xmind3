@@ -6,7 +6,7 @@ Export-Package: org.xmind.core.command.remote,org.xmind.core.command.r
  command.remote;x-internal:=true
 Bundle-Vendor: XMind Ltd.
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-Name: XMind Remote Command Service Plug-in
 Bundle-Localization: plugin
 Bundle-ManifestVersion: 2

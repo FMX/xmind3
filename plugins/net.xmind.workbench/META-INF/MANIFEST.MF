@@ -10,7 +10,7 @@ Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,net.xmind.sign
  [3.4.0,3.5.0)"
 Bundle-Vendor: %providerName
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-Localization: plugin
 Bundle-Name: %pluginName
 Bundle-Activator: net.xmind.workbench.internal.XMindNetWorkbench

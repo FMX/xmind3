@@ -6,7 +6,7 @@ Export-Package: org.xmind.core,org.xmind.core.event,org.xmind.core.int
  ternal:=true,org.xmind.core.internal.zip;x-internal:=true,org.xmind.c
  ore.io,org.xmind.core.marker,org.xmind.core.style,org.xmind.core.util
 Bundle-Vendor: %providerName
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-Name: %pluginName
 Bundle-Localization: plugin
 Bundle-ManifestVersion: 2

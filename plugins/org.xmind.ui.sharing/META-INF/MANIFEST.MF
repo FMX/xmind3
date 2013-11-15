@@ -8,7 +8,7 @@ Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.xmind.core
 Export-Package: org.xmind.ui.internal.sharing;x-internal:=true
 Bundle-Vendor: %providerName
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Eclipse-PlatformFilter: (|(osgi.os=win32)(osgi.os=macosx))
 Bundle-Name: %pluginName
 Bundle-ManifestVersion: 2

@@ -8,7 +8,7 @@ Export-Package: org.xmind.ui.browser; uses:="org.eclipse.jface.action,
  ui.internal.browser.actions;x-internal:=true
 Bundle-Vendor: %providerName
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-Name: %pluginName
 Bundle-Localization: plugin
 Bundle-ManifestVersion: 2

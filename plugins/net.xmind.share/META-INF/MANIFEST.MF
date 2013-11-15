@@ -10,7 +10,7 @@ Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.xmind.ui,o
  rg.xmind.ui.browser,org.eclipse.draw2d,org.json,net.xmind.signin,org.
  xmind.ui.toolkit,org.eclipse.ui.forms
 Bundle-Vendor: %providerName
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-ManifestVersion: 2
 Bundle-Activator: net.xmind.share.XmindSharePlugin
 Bundle-SymbolicName: net.xmind.share;singleton:=true

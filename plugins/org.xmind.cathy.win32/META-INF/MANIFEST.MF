@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-Vendor: %providerName
 Fragment-Host: org.xmind.cathy
 Bundle-ClassPath: .
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Eclipse-PlatformFilter: (osgi.ws=win32)
 Bundle-Name: %pluginName
 Bundle-Localization: fragment_win32

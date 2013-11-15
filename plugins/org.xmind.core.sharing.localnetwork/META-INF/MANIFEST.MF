@@ -7,7 +7,7 @@ Export-Package: org.xmind.core.internal.sharing;x-internal:=true,org.x
  mind.core.sharing
 Bundle-Vendor: %providerName
 Bundle-ActivationPolicy: lazy
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-Name: %pluginName
 Bundle-ManifestVersion: 2
 Bundle-Activator: org.xmind.core.internal.sharing.LocalNetworkSharing

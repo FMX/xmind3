@@ -12,7 +12,7 @@ Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.xmind.gef;
  d.ui.toolkit,org.eclipse.jface.text,org.eclipse.ui.forms
 Bundle-Vendor: %providerName
 Eclipse-LazyStart: true
-Bundle-Version: 3.4.0.201311050558
+Bundle-Version: 3.4.0.qualifier
 Bundle-ManifestVersion: 2
 Bundle-Activator: org.xmind.gef.ui.internal.GEFPlugin
 Bundle-SymbolicName: org.xmind.gef.ui
