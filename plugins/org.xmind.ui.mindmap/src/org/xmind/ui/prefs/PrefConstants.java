@@ -75,8 +75,12 @@ public class PrefConstants {
      */
     public static final String HOME_MAP_LOCATION = "homeMapLocation"; //$NON-NLS-1$
 
-    public static final String MAX_REVISION_NUMBER = "maxRevisionNumber";
+    public static final String CREATE_ATTACHMENT = "CREATE_ATTACHMENT"; //$NON-NLS-1$
 
-    public static final String MAX_REVISION_NUMBER_PER_DAY = "maxRevisionNumberPerDay";
+    public static final String CREATE_HYPERLINK = "CREATE_HYPERLINK"; //$NON-NLS-1$
+
+    public static final String ASK_USER = "ASK_USER"; //$NON-NLS-1$
+
+    public static final String ADD_EXTERNAL_FILE = "dndConfirm.ExternalFile"; //$NON-NLS-1$
 
 }

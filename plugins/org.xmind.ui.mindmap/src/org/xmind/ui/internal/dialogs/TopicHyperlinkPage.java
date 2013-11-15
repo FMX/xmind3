@@ -181,13 +181,11 @@ public class TopicHyperlinkPage extends HyperlinkPage {
      * @param parent
      */
     private void createTopicViewer(Composite parent) {
-    	// Nick: add text filter for topic
-    	PatternFilter filter = new PatternFilter();
-    	FilteredTree tree = new FilteredTree(parent, SWT.SINGLE | SWT.BORDER | SWT.H_SCROLL
-				| SWT.V_SCROLL, filter, true);
-
-    	topicViewer = tree.getViewer();
 //        topicViewer = new TreeViewer(parent, SWT.SINGLE | SWT.BORDER);
+        PatternFilter filter = new PatternFilter();
+        FilteredTree tree = new FilteredTree(parent, SWT.SINGLE | SWT.BORDER
+                | SWT.V_SCROLL | SWT.H_SCROLL, filter, true);
+        topicViewer = tree.getViewer();
         topicViewer.getControl().setLayoutData(
                 new GridData(SWT.FILL, SWT.FILL, true, true));
         topicViewer.setAutoExpandLevel(2);
