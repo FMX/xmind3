@@ -42,9 +42,6 @@ public class PreferenceInitializer extends AbstractPreferenceInitializer {
 
         node.putInt(PrefConstants.UNDO_REDO_TIPS_FADE_DELAY,
                 UndoRedoTipsService.DEFAULT_DURATION);
-
-        node.putInt(PrefConstants.MAX_REVISION_NUMBER, 10);
-        node.putInt(PrefConstants.MAX_REVISION_NUMBER_PER_DAY, 3);
     }
 
 }
