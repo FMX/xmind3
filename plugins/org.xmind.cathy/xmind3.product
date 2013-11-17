@@ -39,743 +39,83 @@
       <plugin id="com.ibm.icu"/>
       <plugin id="net.sourceforge.jazzy"/>
       <plugin id="net.xmind.share"/>
-      <plugin id="net.xmind.share.nl_da" fragment="true"/>
-      <plugin id="net.xmind.share.nl_de" fragment="true"/>
-      <plugin id="net.xmind.share.nl_es" fragment="true"/>
-      <plugin id="net.xmind.share.nl_fr" fragment="true"/>
-      <plugin id="net.xmind.share.nl_ja" fragment="true"/>
-      <plugin id="net.xmind.share.nl_ru" fragment="true"/>
-      <plugin id="net.xmind.share.nl_sl" fragment="true"/>
-      <plugin id="net.xmind.share.nl_zh_CN" fragment="true"/>
-      <plugin id="net.xmind.share.nl_zh_TW" fragment="true"/>
       <plugin id="net.xmind.signin"/>
-      <plugin id="net.xmind.signin.nl_da" fragment="true"/>
-      <plugin id="net.xmind.signin.nl_de" fragment="true"/>
-      <plugin id="net.xmind.signin.nl_es" fragment="true"/>
-      <plugin id="net.xmind.signin.nl_fr" fragment="true"/>
-      <plugin id="net.xmind.signin.nl_ja" fragment="true"/>
-      <plugin id="net.xmind.signin.nl_ko" fragment="true"/>
-      <plugin id="net.xmind.signin.nl_ru" fragment="true"/>
-      <plugin id="net.xmind.signin.nl_sl" fragment="true"/>
-      <plugin id="net.xmind.signin.nl_zh_CN" fragment="true"/>
-      <plugin id="net.xmind.signin.nl_zh_TW" fragment="true"/>
       <plugin id="net.xmind.verify"/>
-      <plugin id="net.xmind.verify.nl_da" fragment="true"/>
-      <plugin id="net.xmind.verify.nl_de" fragment="true"/>
-      <plugin id="net.xmind.verify.nl_es" fragment="true"/>
-      <plugin id="net.xmind.verify.nl_fr" fragment="true"/>
-      <plugin id="net.xmind.verify.nl_ja" fragment="true"/>
-      <plugin id="net.xmind.verify.nl_ko" fragment="true"/>
-      <plugin id="net.xmind.verify.nl_ru" fragment="true"/>
-      <plugin id="net.xmind.verify.nl_sl" fragment="true"/>
-      <plugin id="net.xmind.verify.nl_zh_CN" fragment="true"/>
-      <plugin id="net.xmind.verify.nl_zh_TW" fragment="true"/>
       <plugin id="net.xmind.workbench"/>
-      <plugin id="net.xmind.workbench.nl_da" fragment="true"/>
-      <plugin id="net.xmind.workbench.nl_de" fragment="true"/>
-      <plugin id="net.xmind.workbench.nl_es" fragment="true"/>
-      <plugin id="net.xmind.workbench.nl_fr" fragment="true"/>
-      <plugin id="net.xmind.workbench.nl_ja" fragment="true"/>
-      <plugin id="net.xmind.workbench.nl_zh_CN" fragment="true"/>
-      <plugin id="net.xmind.workbench.nl_zh_TW" fragment="true"/>
       <plugin id="org.apache.commons.codec"/>
       <plugin id="org.apache.tools.zip"/>
       <plugin id="org.bouncycastle"/>
       <plugin id="org.eclipse.core.commands"/>
-      <plugin id="org.eclipse.core.commands.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.commands.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.commands.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.commands.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.commands.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.commands.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.commands.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.commands.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.commands.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.contenttype"/>
-      <plugin id="org.eclipse.core.contenttype.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.contenttype.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.contenttype.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.contenttype.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.contenttype.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.contenttype.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.contenttype.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.contenttype.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.contenttype.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.databinding"/>
-      <plugin id="org.eclipse.core.databinding.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.databinding.observable"/>
-      <plugin id="org.eclipse.core.databinding.observable.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.observable.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.observable.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.observable.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.observable.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.observable.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.observable.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.observable.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.observable.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.databinding.property"/>
-      <plugin id="org.eclipse.core.databinding.property.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.property.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.property.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.property.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.property.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.property.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.property.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.property.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.databinding.property.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.expressions"/>
-      <plugin id="org.eclipse.core.expressions.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.expressions.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.expressions.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.expressions.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.expressions.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.expressions.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.expressions.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.expressions.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.expressions.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.filesystem"/>
-      <plugin id="org.eclipse.core.filesystem.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.filesystem.win32.x86" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.win32.x86.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.win32.x86.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.win32.x86.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.win32.x86.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.win32.x86.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.win32.x86.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.win32.x86.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.win32.x86.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.filesystem.win32.x86.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.jobs"/>
-      <plugin id="org.eclipse.core.jobs.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.jobs.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.jobs.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.jobs.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.jobs.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.jobs.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.jobs.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.jobs.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.jobs.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.net"/>
-      <plugin id="org.eclipse.core.net.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.net.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.net.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.net.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.net.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.net.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.net.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.net.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.net.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.net.win32.x86" fragment="true"/>
-      <plugin id="org.eclipse.core.net.win32.x86.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.net.win32.x86.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.net.win32.x86.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.net.win32.x86.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.net.win32.x86.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.net.win32.x86.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.net.win32.x86.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.net.win32.x86.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.net.win32.x86.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.resources"/>
-      <plugin id="org.eclipse.core.resources.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.resources.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.resources.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.resources.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.resources.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.resources.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.resources.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.resources.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.resources.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.resources.win32.x86" fragment="true"/>
       <plugin id="org.eclipse.core.runtime"/>
-      <plugin id="org.eclipse.core.runtime.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.runtime.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.runtime.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.runtime.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.runtime.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.runtime.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.runtime.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.runtime.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.core.runtime.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.runtime.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.core.variables"/>
-      <plugin id="org.eclipse.core.variables.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.core.variables.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.core.variables.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.core.variables.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.core.variables.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.core.variables.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.core.variables.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.core.variables.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.core.variables.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.draw2d"/>
-      <plugin id="org.eclipse.draw2d.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.draw2d.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.draw2d.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.draw2d.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.draw2d.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.draw2d.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.draw2d.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.draw2d.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.draw2d.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.equinox.app"/>
-      <plugin id="org.eclipse.equinox.app.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.equinox.app.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.equinox.app.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.equinox.app.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.equinox.app.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.equinox.app.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.equinox.app.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.equinox.app.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.equinox.app.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.equinox.common"/>
-      <plugin id="org.eclipse.equinox.common.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.equinox.common.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.equinox.common.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.equinox.common.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.equinox.common.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.equinox.common.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.equinox.common.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.equinox.common.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.equinox.common.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.equinox.common.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.equinox.preferences"/>
-      <plugin id="org.eclipse.equinox.preferences.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.equinox.preferences.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.equinox.preferences.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.equinox.preferences.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.equinox.preferences.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.equinox.preferences.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.equinox.preferences.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.equinox.preferences.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.equinox.preferences.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.equinox.registry"/>
-      <plugin id="org.eclipse.equinox.registry.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.equinox.registry.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.equinox.registry.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.equinox.registry.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.equinox.registry.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.equinox.registry.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.equinox.registry.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.equinox.registry.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.equinox.registry.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.equinox.registry.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.equinox.security"/>
-      <plugin id="org.eclipse.equinox.security.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.equinox.security.win32.x86" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.win32.x86.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.win32.x86.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.win32.x86.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.win32.x86.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.win32.x86.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.win32.x86.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.win32.x86.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.win32.x86.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.equinox.security.win32.x86.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.help"/>
-      <plugin id="org.eclipse.help.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.help.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.help.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.help.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.help.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.help.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.help.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.help.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.help.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.jface"/>
       <plugin id="org.eclipse.jface.databinding"/>
-      <plugin id="org.eclipse.jface.databinding.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.jface.databinding.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.jface.databinding.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.jface.databinding.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.jface.databinding.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.jface.databinding.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.jface.databinding.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.jface.databinding.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.jface.databinding.nl_zh_TW" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.jface.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.jface.text"/>
-      <plugin id="org.eclipse.jface.text.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.jface.text.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.jface.text.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.jface.text.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.jface.text.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.jface.text.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.jface.text.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.jface.text.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.jface.text.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.osgi"/>
-      <plugin id="org.eclipse.osgi.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.osgi.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.osgi.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.osgi.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.osgi.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.osgi.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.osgi.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.osgi.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.osgi.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.osgi.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.osgi.services"/>
-      <plugin id="org.eclipse.osgi.services.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.osgi.services.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.osgi.services.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.osgi.services.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.osgi.services.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.osgi.services.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.osgi.services.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.osgi.services.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.osgi.services.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.swt"/>
-      <plugin id="org.eclipse.swt.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.swt.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.swt.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.swt.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.swt.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.swt.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.swt.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.swt.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.swt.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.swt.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.swt.win32.win32.x86" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.swt.win32.win32.x86.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.text"/>
-      <plugin id="org.eclipse.text.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.text.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.text.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.text.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.text.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.text.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.text.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.text.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.text.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.ui"/>
       <plugin id="org.eclipse.ui.forms"/>
-      <plugin id="org.eclipse.ui.forms.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.ui.forms.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.ui.forms.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.ui.forms.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.ui.forms.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.ui.forms.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.ui.forms.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.ui.forms.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.ui.forms.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.ui.forms.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.ui.net"/>
-      <plugin id="org.eclipse.ui.net.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.ui.net.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.ui.net.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.ui.net.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.ui.net.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.ui.net.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.ui.net.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.ui.net.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.ui.net.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.ui.net.nl_zh_TW" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.ui.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.ui.views"/>
-      <plugin id="org.eclipse.ui.views.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.ui.views.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.ui.views.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.ui.views.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.ui.views.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.ui.views.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.ui.views.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.ui.views.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.ui.views.nl_zh_TW" fragment="true"/>
       <plugin id="org.eclipse.ui.workbench"/>
-      <plugin id="org.eclipse.ui.workbench.nl_da" fragment="true"/>
-      <plugin id="org.eclipse.ui.workbench.nl_de" fragment="true"/>
-      <plugin id="org.eclipse.ui.workbench.nl_es" fragment="true"/>
-      <plugin id="org.eclipse.ui.workbench.nl_fr" fragment="true"/>
-      <plugin id="org.eclipse.ui.workbench.nl_ja" fragment="true"/>
-      <plugin id="org.eclipse.ui.workbench.nl_ko" fragment="true"/>
-      <plugin id="org.eclipse.ui.workbench.nl_ru" fragment="true"/>
-      <plugin id="org.eclipse.ui.workbench.nl_sl" fragment="true"/>
-      <plugin id="org.eclipse.ui.workbench.nl_zh" fragment="true"/>
-      <plugin id="org.eclipse.ui.workbench.nl_zh_TW" fragment="true"/>
       <plugin id="org.json"/>
       <plugin id="org.xmind.cathy"/>
-      <plugin id="org.xmind.cathy.nl_da" fragment="true"/>
-      <plugin id="org.xmind.cathy.nl_de" fragment="true"/>
-      <plugin id="org.xmind.cathy.nl_es" fragment="true"/>
-      <plugin id="org.xmind.cathy.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.cathy.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.cathy.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.cathy.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.cathy.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.cathy.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.cathy.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.cathy.win32" fragment="true"/>
       <plugin id="org.xmind.core"/>
       <plugin id="org.xmind.core.audio"/>
-      <plugin id="org.xmind.core.audio.nl_da" fragment="true"/>
-      <plugin id="org.xmind.core.audio.nl_de" fragment="true"/>
-      <plugin id="org.xmind.core.audio.nl_es" fragment="true"/>
-      <plugin id="org.xmind.core.audio.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.core.audio.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.core.audio.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.core.audio.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.core.audio.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.core.audio.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.core.audio.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.core.command"/>
-      <plugin id="org.xmind.core.command.nl_da" fragment="true"/>
-      <plugin id="org.xmind.core.command.nl_de" fragment="true"/>
-      <plugin id="org.xmind.core.command.nl_es" fragment="true"/>
-      <plugin id="org.xmind.core.command.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.core.command.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.core.command.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.core.command.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.core.command.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.core.io"/>
-      <plugin id="org.xmind.core.io.nl_da" fragment="true"/>
-      <plugin id="org.xmind.core.io.nl_de" fragment="true"/>
-      <plugin id="org.xmind.core.io.nl_es" fragment="true"/>
-      <plugin id="org.xmind.core.io.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.core.io.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.core.io.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.core.io.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.core.io.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.core.io.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.core.io.nl_zh_TW" fragment="true"/>
-      <plugin id="org.xmind.core.nl_da" fragment="true"/>
-      <plugin id="org.xmind.core.nl_de" fragment="true"/>
-      <plugin id="org.xmind.core.nl_es" fragment="true"/>
-      <plugin id="org.xmind.core.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.core.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.core.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.core.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.core.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.core.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.core.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.core.runtime"/>
-      <plugin id="org.xmind.core.runtime.nl_da" fragment="true"/>
-      <plugin id="org.xmind.core.runtime.nl_de" fragment="true"/>
-      <plugin id="org.xmind.core.runtime.nl_es" fragment="true"/>
-      <plugin id="org.xmind.core.runtime.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.core.runtime.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.core.runtime.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.core.runtime.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.core.runtime.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.core.runtime.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.core.runtime.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.gef"/>
-      <plugin id="org.xmind.gef.nl_da" fragment="true"/>
-      <plugin id="org.xmind.gef.nl_de" fragment="true"/>
-      <plugin id="org.xmind.gef.nl_es" fragment="true"/>
-      <plugin id="org.xmind.gef.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.gef.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.gef.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.gef.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.gef.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.gef.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.gef.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.gef.ui"/>
-      <plugin id="org.xmind.gef.ui.nl_da" fragment="true"/>
-      <plugin id="org.xmind.gef.ui.nl_de" fragment="true"/>
-      <plugin id="org.xmind.gef.ui.nl_es" fragment="true"/>
-      <plugin id="org.xmind.gef.ui.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.gef.ui.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.gef.ui.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.gef.ui.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.gef.ui.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.gef.ui.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.gef.ui.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.lame.win32" fragment="true"/>
       <plugin id="org.xmind.meggy"/>
-      <plugin id="org.xmind.meggy.nl_da" fragment="true"/>
-      <plugin id="org.xmind.meggy.nl_de" fragment="true"/>
-      <plugin id="org.xmind.meggy.nl_es" fragment="true"/>
-      <plugin id="org.xmind.meggy.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.meggy.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.meggy.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.meggy.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.meggy.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.meggy.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.meggy.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.neuquant"/>
-      <plugin id="org.xmind.neuquant.nl_da" fragment="true"/>
-      <plugin id="org.xmind.neuquant.nl_de" fragment="true"/>
-      <plugin id="org.xmind.neuquant.nl_es" fragment="true"/>
-      <plugin id="org.xmind.neuquant.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.neuquant.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.neuquant.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.neuquant.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.neuquant.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.neuquant.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.neuquant.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui"/>
       <plugin id="org.xmind.ui.audionotes"/>
-      <plugin id="org.xmind.ui.audionotes.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.audionotes.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.audionotes.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.audionotes.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.audionotes.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.audionotes.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.audionotes.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.audionotes.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.audionotes.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.audionotes.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.brainstorm"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.brainstorm.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.browser"/>
-      <plugin id="org.xmind.ui.browser.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.browser.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.browser.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.browser.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.browser.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.browser.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.browser.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.browser.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.browser.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.browser.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.exports"/>
-      <plugin id="org.xmind.ui.exports.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.exports.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.exports.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.exports.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.exports.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.exports.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.exports.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.exports.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.exports.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.exports.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.fishbone"/>
-      <plugin id="org.xmind.ui.fishbone.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.fishbone.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.fishbone.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.fishbone.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.fishbone.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.fishbone.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.fishbone.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.fishbone.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.fishbone.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.fishbone.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.gallery"/>
-      <plugin id="org.xmind.ui.gallery.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.gallery.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.gallery.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.gallery.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.gallery.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.gallery.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.gallery.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.gallery.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.gallery.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.gallery.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.gallery.resources" fragment="true"/>
       <plugin id="org.xmind.ui.gantt"/>
-      <plugin id="org.xmind.ui.gantt.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.gantt.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.gantt.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.gantt.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.gantt.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.gantt.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.gantt.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.gantt.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.gantt.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.gantt.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.help"/>
-      <plugin id="org.xmind.ui.help.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.help.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.help.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.help.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.help.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.help.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.help.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.help.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.help.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.help.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.imports"/>
-      <plugin id="org.xmind.ui.imports.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.imports.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.imports.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.imports.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.imports.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.imports.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.imports.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.imports.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.imports.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.imports.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.mapshot"/>
-      <plugin id="org.xmind.ui.mapshot.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.mapshot.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.mapshot.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.mapshot.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.mapshot.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.mapshot.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.mapshot.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.mapshot.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.mapshot.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.mapshot.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.mindmap"/>
       <plugin id="org.xmind.ui.mindmap.filtering"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.filtering.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.mindmap.merging"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.merging.nl_zh_TW" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.mindmap.nl_zh_TW" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.presentation"/>
-      <plugin id="org.xmind.ui.presentation.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.presentation.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.presentation.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.presentation.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.presentation.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.presentation.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.presentation.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.presentation.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.presentation.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.presentation.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.resources" fragment="true"/>
       <plugin id="org.xmind.ui.search"/>
-      <plugin id="org.xmind.ui.search.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.search.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.search.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.search.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.search.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.search.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.search.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.search.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.search.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.search.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.spelling"/>
-      <plugin id="org.xmind.ui.spelling.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.spelling.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.spelling.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.spelling.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.spelling.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.spelling.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.spelling.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.spelling.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.spelling.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.spelling.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.spreadsheet"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.spreadsheet.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.taskinfo"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.taskinfo.nl_zh_TW" fragment="true"/>
       <plugin id="org.xmind.ui.toolkit"/>
-      <plugin id="org.xmind.ui.toolkit.nl_da" fragment="true"/>
-      <plugin id="org.xmind.ui.toolkit.nl_de" fragment="true"/>
-      <plugin id="org.xmind.ui.toolkit.nl_es" fragment="true"/>
-      <plugin id="org.xmind.ui.toolkit.nl_fr" fragment="true"/>
-      <plugin id="org.xmind.ui.toolkit.nl_ja" fragment="true"/>
-      <plugin id="org.xmind.ui.toolkit.nl_ko" fragment="true"/>
-      <plugin id="org.xmind.ui.toolkit.nl_ru" fragment="true"/>
-      <plugin id="org.xmind.ui.toolkit.nl_sl" fragment="true"/>
-      <plugin id="org.xmind.ui.toolkit.nl_zh_CN" fragment="true"/>
-      <plugin id="org.xmind.ui.toolkit.nl_zh_TW" fragment="true"/>
    </plugins>
 
 
